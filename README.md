@@ -1,6 +1,6 @@
 # tmls
 
-Perform a time machine ls, preserving call arguments
+Perform a time machine ls, preserving call arguments, e.g. `tmls -aFl`
 
 ```
 Perform a time machine ls
